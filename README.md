@@ -36,6 +36,16 @@ This project was developed as an individual assessment for the Object Oriented D
 3. Run `MainKt`
 
 **Administrator credentials** (seeded):
+
+## Screenshots
+
+| Welcome Screen | Film Search & Seat Selection |
+|----------------|------------------------------|
+| ![Welcome](screenshots/01-welcome-screen.png) | ![Film Search](screenshots/02-film-search.png) |
+
+| Discount Application | Admin Dashboard |
+|----------------------|-----------------|
+| ![Discounts](screenshots/04-discount-applied.png) | ![Admin](screenshots/05-admin-dashboard.png) |
 - Username: `admin`
 - Password: `Admin123`
 
